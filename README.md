@@ -16,7 +16,6 @@ A basic Python project that detects the color at the center of the webcam screen
 ## Project Files
 
 - [color_recognition.py](./color_recognition.py) 
-- README.md ← this file
 
 ## Screenshot Example
 
